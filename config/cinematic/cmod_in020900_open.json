@@ -1,0 +1,73 @@
+{
+  "EntryIndex": 0,
+  "Nodes": [
+    {
+      "Node": "{ \"LoadScenesAction\" : \"S0104\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} , 0, False, 0, \"\"} ",
+      "Next": 1,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"CameraTransformAction\" : True, { 2.53000, 2.79000, -2.07000} , 0.00000, True, { 18.61193, 247.78410, 0.00000} , 0.00000, 45} ",
+      "Next": 2,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"GroupTransformAction\" : [ { \"in020900\", { -5.43500, 0.00000, -2.00000} , { 0.00000, 128.14450, 0.00000} }  ]} ",
+      "Next": 3,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"PlayerTransformAction\" : True, { -2.56300, 0.00000, -2.59900} , True, { 0.00000, 284.28020, 0.00000} } ",
+      "Next": 4,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"ScreenFadeAction\" : True, 1.00000} ",
+      "Next": 5,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"MusicAction\" : \"In_mood_01.wav\", 2.00000, False, 1.00000, False, 0.00000} ",
+      "Next": 6,
+      "Prallel": -1
+    },
+    {
+      "Node": "{\"TalkAction\": \"cmod_mu00_0001\"}",
+      "Next": 7,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"TimerAction\" : 1.00000} ",
+      "Next": 8
+    },
+    {
+      "Node": "{ \"ScreenFadeAction\" : False, 1.00000} ",
+      "Next": 9,
+      "Prallel": -1
+    },
+    {
+      "Node": "{\"TalkAction\": \"cmod_mu00_0030\"}",
+      "Next": 10,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"MusicAction\" : \"\", 0.00000, False, 0.00000, True, 2.00000} ",
+      "Next": 11,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"TimerAction\" : 1.00000} ",
+      "Next": 12
+    },
+    {
+      "Node": "{ \"NurturanceLoadScenesAction\" : \"S0202\", { 1499.94800, -0.00600, 758.87900} , { 0.00000, 0.00000, 0.00000} , 0, False, 0} ",
+      "Next": 13,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"NextOrEndQuestAction\" } ",
+      "Next": -1
+    }
+  ],
+  "Name": "开启社群：木人心交友"
+}

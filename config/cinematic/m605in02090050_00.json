@@ -1,0 +1,16 @@
+{
+  "EntryIndex": 0,
+  "Nodes": [
+    {
+      "Node": "{\"TalkAction\": \"cmod_mu50_0001\"}",
+      "Next": 1,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"NurturanceLoadScenesAction\" : \"S0202\", { 1499.94800, -0.00600, 758.87900} , { 0.00000, 0.00000, 0.00000} , 0, False, 0} ",
+      "Next": -1,
+      "Prallel": -1
+    }
+  ],
+  "Name": "木人心 五阶升六阶剧情"
+}

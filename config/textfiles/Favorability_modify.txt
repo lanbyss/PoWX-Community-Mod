@@ -1,0 +1,17 @@
+rankprz0209_1	朽木可雕	木人心	开启社群：<color=#FF0000>交友指令</color>
+rankprz0209_2	耳提面命	木人心	开启社群：<color=#FF0000>短兵指导</color>
+rankprz0209_3	教诲如流	木人心	领悟特质：<color=#FF0000>精益求精</color>
+rankprz0209_4	承师若友	木人心	开启社群：<color=#FF0000>高级机关术指导</color>
+rankprz0209_5	知己知彼	木人心	领悟特质：<color=#FF0000>能工巧匠</color>
+rankprz0209_6	推心置腹	木人心	领悟特质：<color=#FF0000>白水鉴心</color>
+rankprz0209_7	遗君一心	木人心	领悟心法：<color=#FF0000>百工心鉴</color>
+rankprz0209_8	共沐春秋	木人心	领悟心法：<color=#FF0000>百工心鉴</color><br>与木人心成为<color=#FF0000>恋人</color>
+
+rankprz0701_1	草庐之交	道恒	开启社群：<color=#FF0000>交友指令</color>
+rankprz0701_2	传道解惑	道恒	开启社群：<color=#FF0000>医术指导</color>
+rankprz0701_3	亦师亦友	道恒	领悟特质：<color=#FF0000>医者仁心</color>
+rankprz0701_4	据其三窟	道恒	开启社群：<color=#FF0000>草庐摸鱼</color>
+rankprz0701_5	旺临朱雀	道恒	领悟特质：<color=#FF0000>装聋作哑</color>
+rankprz0701_6	坎离相济	道恒	领悟特质：<color=#FF0000>道心如铁</color>
+rankprz0701_7	莫逆于心	道恒	领悟心法：<color=#FF0000>仙鼎五气</color>
+rankprz0701_8	心动情生	道恒	领悟心法：<color=#FF0000>仙鼎五气</color><br>与道恒成为<color=#FF0000>恋人</color>

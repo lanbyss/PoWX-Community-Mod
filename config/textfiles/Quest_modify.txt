@@ -1,0 +1,4 @@
+cmod_in020900_open	【开启社群】藏经阁代理	in020900	开启木人心交友	Invitation	帮助木人心管理藏经阁和木人。	征求一名弟子，在我离阁期间协助管理藏经阁书籍及机关人。				TRUE	0	0		无	2		FALSE	
+cmod_in070100_open	【开启社群】随我下山	in070100	开启道恒交友	Invitation	随道恒下山义诊。	有没有弟子愿意随我下山义诊学点东西？				TRUE	0	0		无	2		FALSE	
+
+cmod_test_add_gift	【mod测试】获取礼物	in0102	将礼物添加到背包里用于测试	Invitation	礼物测试	添加给木人心和道恒的礼物到背包里用于测试，可重复接取				TRUE	0	0		无	2		TRUE	

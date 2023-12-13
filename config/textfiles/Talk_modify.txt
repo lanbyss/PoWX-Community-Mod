@@ -1,0 +1,123 @@
+t605in020900_900	in020900	0	0	【赠礼对话测试】好感+0		0			0	0
+t605in020900_901	in020900	0	0	【赠礼对话测试】好感+{1-4}		0			0	0
+t605in020900_902	in020900	0	0	【赠礼对话测试】好感+{5-8}		0			0	0
+t605in020900_903	in020900	0	0	【赠礼对话测试】好感+{>8}		0			0	0
+
+t605in070100_900	in070100	0	0	【赠礼对话测试】好感+0		0			0	0
+t605in070100_901	in070100	0	0	【赠礼对话测试】好感+{1-4}		0			0	0
+t605in070100_902	in070100	0	0	【赠礼对话测试】好感+{5-8}		0			0	0
+t605in070100_903	in070100	0	0	【赠礼对话测试】好感+{>8}		0			0	0
+
+
+
+cmod_mu00_0001	in020900	0	0	……		1	cmod_mu00_0002,cmod_mu00_0003		0	0
+cmod_mu00_0002		0	3	……		0	cmod_mu00_0004		0	0
+cmod_mu00_0003		0	4	木师父……？		0	cmod_mu00_0004		0	0
+cmod_mu00_0004	in020900	0	0	哼，你这{address_3}倒是对阁中事务热心得很。		0	cmod_mu00_0005		0	0
+cmod_mu00_0005	in020900	0	0	罢了，你平日常来藏经阁读书，对木人也比较熟悉，交给你倒也妥当。		0	cmod_mu00_0006		0	0
+cmod_mu00_0006	in020900	0	0	如传书所写，我离阁这段时间，需要你帮忙管理藏经阁书籍和木人，对此你还有什么问题吗？		1	cmod_mu00_0007,cmod_mu00_0008,cmod_mu00_0009,cmod_mu00_0010		0	0
+cmod_mu00_0007		0	3	弟子敢问木师父离阁所为何事？		0	cmod_mu00_0011		0	0
+cmod_mu00_0008		0	4	想问一下管理书籍包括哪些工作？		0	cmod_mu00_0012		0	0
+cmod_mu00_0009		0	5	想问一下管理木人包括哪些工作？		0	cmod_mu00_0013		0	0
+cmod_mu00_0010		0	6	没问题，师父就放心交给我吧！		0	cmod_mu00_0025		0	0
+cmod_mu00_0011	in020900	0	0	我要和楚天碧去一趟贵州……哼，此事与你无关，多说也是无益。		0	cmod_mu00_0011_2		0	0
+cmod_mu00_0011_2	in020900	0	0	如果没有别的问题就回去罢，不要浪费彼此的时间。		0			0	0
+cmod_mu00_0012	in020900	0	0	做好两件事即可，一是书籍借出和交还的登记记录，二是对归还的书籍进行分类整理上架。		0	cmod_mu00_0012_2		0	0
+cmod_mu00_0012_2	in020900	0	0	红儿常在藏经阁，对这些事务也比较熟悉，我已交代她从旁协助你。		0	cmod_mu00_0014		0	0
+cmod_mu00_0013	in020900	0	0	两件事情，一是阁中弟子或师长借用木人时帮忙从工房仓库取出并登记；		0	cmod_mu00_0013_2		0	0
+cmod_mu00_0013_2	in020900	0	0	二是对归还仓库的木人进行表面清洁工作。		0	cmod_mu00_0013_3		0	0
+cmod_mu00_0013_3	in020900	0	0	武家那个楞头小子每日都会来借木人训练，对此甚是熟悉，我也嘱咐了他给你搭把手。		0	cmod_mu00_0015		0	0
+cmod_mu00_0014	in020900	0	0	你还有什么疑问吗？		1	cmod_mu00_0016,cmod_mu00_0017		0	0
+cmod_mu00_0015	in020900	0	0	你还有什么疑问吗？		1	cmod_mu00_0018,cmod_mu00_0019		0	0
+cmod_mu00_0016		0	3	还想问一下木师父什么时候回来？		0	cmod_mu00_0021		0	0
+cmod_mu00_0017		0	4	没有了，和段姑娘一起一定没问题！		0	cmod_mu00_0025		0	0
+cmod_mu00_0018		0	3	还想问一下木师父什么时候回来？		0	cmod_mu00_0021		0	0
+cmod_mu00_0019		0	4	如果木人损坏了怎么办？		0	cmod_mu00_0026		0	0
+cmod_mu00_0020		0	5	没有了，有武师兄帮忙一定完成任务！		0	cmod_mu00_0025		0	0
+cmod_mu00_0021	in020900	0	0	……大概这个月底，你们夏校结束的时候。		0	cmod_mu00_0022		0	0
+cmod_mu00_0022	in020900	0	0	……还有问题吗？		0	cmod_mu00_0023		0	0
+cmod_mu00_0023		0	1	（刚要张口，便被木师父打断）		0	cmod_mu00_0024		0	0
+cmod_mu00_0024	in020900	0	0	哼，谅你也问不出什么有价值的问题了，该做什么就做什么去，别耽误彼此的时间。		0			0	0
+cmod_mu00_0025	in020900	0	0	很好，没有问题便去忙你自己的事情吧。		0			0	0
+cmod_mu00_0026	in020900	0	0	……		0	cmod_mu00_0027		0	0
+cmod_mu00_0027	in020900	0	0	自然是放在仓库等着我回来修缮。		0	cmod_mu00_0028		0	0
+cmod_mu00_0028	in020900	0	0	你这{address_3}既不懂机关术之原理，又笨手笨脚的，擅自动手只会帮倒忙。		0	cmod_mu00_0029		0	0
+cmod_mu00_0029	in020900	0	0	好了，该说的都说了，去做自己的事吧。		0			0	0
+cmod_mu00_0030		0	1	（每日勤勤恳恳完成木师父交代之事）		0	cmod_mu00_0031		0	0
+cmod_mu00_0031		0	1	（一个月后）		0	cmod_mu00_0032		0	0
+cmod_mu00_0032		0	1	（木师父翻看着一个月来的登记册）		0	cmod_mu00_0033		0	0
+cmod_mu00_0033	in020900	0	0	……嗯，勉强算是合格了。		0	cmod_mu00_0034		0	0
+cmod_mu00_0034	in020900	0	0	听程墉说你对机关术有些想法……		0	cmod_mu00_0035		0	0
+cmod_mu00_0035	in020900	0	0	拿着，什么时候读完了，再来见我。		0	cmod_mu00_0036		0	0
+cmod_mu00_0036	in020900	0	0	……如果连这本小册子都理解不了的话，你我都没必要在这上面耗功夫了。		0	cmod_mu00_0037		0	0
+cmod_mu00_0037		0	1	（今后可与木师父进行交友，加深情谊了！）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_01"}  ]}
+
+cmod_mu11_0001	in020900	0	0	哼，我只演示一次，看清楚了。		0	cmod_mu11_0002		0	{ "MultiAction" : [ { "NpcResetWeaponAction" : "in020900"} , { "NpcWeaponActiveAction" : True, "in020900"} , { "NpcChangeWeaponPointAction" : True, "in020900"} , { "PlayNpcAnimationAction" : [ { 0, "skill_MA0601_a01_loweff_b", 1.00000}  ], "in020900"}, { "NpcResetWeaponAction" : "in020900"} ]}
+cmod_mu11_0002		0	1	（受到木师父指点，短兵攻击伤害得到提升）		0	cmod_mu11_0003		0	0
+cmod_mu11_0003		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_fav10"}  ]}
+
+cmod_mu10_0001		0	1	（一阶升二阶）		0	cmod_mu10_0002		0	0
+cmod_mu10_0002	in020900	0	0	……		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_02"}  ]}
+
+cmod_mu21_0001		0	1	（呼呼……）		0	cmod_mu21_0002		0	0
+cmod_mu21_0002	in020900	0	0	（敲头）		0	cmod_mu21_0003		0	0
+cmod_mu21_0003	in020900	0	0	哼，醒了？这里不是给你睡觉的地方，不要在藏经阁露出你那傻乎乎的睡脸。		0	cmod_mu21_0004		0	0
+cmod_mu21_0004		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_fav10"}  ]}
+
+cmod_mu20_0001		0	1	（二阶升三阶）		0	cmod_mu20_0002		0	0
+cmod_mu20_0002	in020900	0	0	……		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_03"}  ]}
+cmod_mu30_0001		0	1	（三阶升四阶）		0	cmod_mu30_0002		0	0
+cmod_mu30_0002	in020900	0	0	……		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_04"}  ]}
+cmod_mu40_0001		0	1	（四阶升五阶）		0	0		0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_05"}  ]}
+cmod_mu50_0001		0	1	（五阶升六阶）		0	0		0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_06"}  ]}
+
+cmod_mu31_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_fav10"}  ]}
+cmod_mu41_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_fav10"}  ]}
+cmod_mu51_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_fav10"}  ]}
+cmod_mu61_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_fav10"}  ]}
+
+cmod_mu60_0001		0	0	选择		1	cmod_mu60_0002,cmod_mu60_0003		0	0
+cmod_mu60_0002		0	3	成为恋人		0	cmod_mu60_0004		{ "LogicalNode" : [ { "CheckFlag" : 1, 0, "fg0404_FriendshipLover"}  ], 0}	0
+cmod_mu60_0003		0	4	止步于良师益友		0	cmod_mu60_0005		0	0
+cmod_mu60_0004	in020900	5	0	……随你高兴罢		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_07"} ,  { "RewardAction" : "re_cmod_in020900_08"} , { "SetFlagAction" : 0, 1, "fg0404_FriendshipLover"} ]}
+cmod_mu60_0005	in020900	0	0	……		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_07"}  ]}
+
+cmod_mu71_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in020900_fav10"}  ]}
+
+
+
+cmod_dao00_0001	in070100	0	0	{name_1}什么的，怎么又是你？你懂得医术吗？		0	cmod_dao00_0002		0	0
+cmod_dao00_0002	in070100	0	0	嗯？你说传书没要求说要会医术的弟子？		0	cmod_dao00_0003		0	0
+cmod_dao00_0003	in070100	0	0	算啦算啦，来，这个筐子就由你来背，这便出发罢！		0	cmod_dao00_0004		0	0
+cmod_dao00_0004		0	1	（跟着道恒师父翻过几座山头，走访了若干家零落村户……）		0	cmod_dao00_0005		0	0
+cmod_dao00_0005		0	1	（回来的路上道恒师父时不时随手摘些药草丢到筐子里）		0	cmod_dao00_0006		0	0
+cmod_dao00_0006	in070100	0	0	{address_3}体力不错，看来平时没少锻炼。		0	cmod_dao00_0007		0	0
+cmod_dao00_0007	in070100	0	0	很好很好，山人我很满意，以后也要多来给山人帮忙啊！		0	cmod_dao00_0008		0	0
+cmod_dao00_0008	in070100	0	0	年纪轻轻的叹什么气？放心，帮山人做事自然是好处多多！		0	cmod_dao00_0009		0	0
+cmod_dao00_0009	in070100	0	0	等等，还没让你走呢，把筐子里的药分拣一下再走，回来的路上都教过你了。		0	cmod_dao00_0010		0	0
+cmod_dao00_0010		0	1	（今后可与道恒师父进行交友，干更多的活儿了！）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_01"}  ]}
+
+cmod_dao11_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_fav10"}  ]}
+cmod_dao21_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_fav10"}  ]}
+cmod_dao31_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_fav10"}  ]}
+cmod_dao41_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_fav10"}  ]}
+cmod_dao51_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_fav10"}  ]}
+cmod_dao61_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_fav10"}  ]}
+cmod_dao71_0001		0	1	【快速测试用】（好感+10 ）		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_fav10"}  ]}
+
+cmod_dao10_0001		0	1	（1阶升2阶）		0	0		0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_02"}  ]}
+cmod_dao20_0001		0	1	（2阶升3阶）		0	0		0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_03"}  ]}
+cmod_dao30_0001		0	1	（3阶升4阶）		0	0		0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_04"}  ]}
+cmod_dao40_0001		0	1	（4阶升5阶）		0	0		0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_05"}  ]}
+cmod_dao50_0001		0	1	（5阶升6阶）		0	0		0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_06"}  ]}
+cmod_dao60_0001		0	1	选择		1	cmod_dao60_0002,cmod_dao60_0003		0	0
+cmod_dao60_0002		0	3	成为恋人		0	cmod_dao60_0004		{ "LogicalNode" : [ { "CheckFlag" : 1, 0, "fg0404_FriendshipLover"}  ], 0}	0
+cmod_dao60_0003		0	4	止步于良师益友		0	cmod_dao60_0005		0	0
+cmod_dao60_0004	in070100	5	0	真是败给你了。		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_07"}, { "RewardAction" : "re_cmod_in070100_08"}, { "SetFlagAction" : 0, 1, "fg0404_FriendshipLover"} ]}
+cmod_dao60_0005	in070100	0	0	……		0			0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_in070100_07"}  ]}
+
+
+cmod_test_gift_0001		0	1	【测试用】获取礼物——		1	cmod_test_gift_0002,cmod_test_gift_0003		0	0
+cmod_test_gift_0002		0	3	木人心		0	cmod_test_gift_0004		0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_test_gift_mu"}  ]}
+cmod_test_gift_0003		0	4	道恒		0	cmod_test_gift_0004		0	{ "MultiAction" : [ { "RewardAction" : "re_cmod_test_gift_dao"}  ]}
+cmod_test_gift_0004		0	1	获取完成。		0			0	0

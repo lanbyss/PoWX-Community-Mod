@@ -1,0 +1,19 @@
+{
+  "EntryIndex": 0,
+  "Nodes": [
+    {
+      "Node": "{\"TalkAction\": \"cmod_test_gift_0001\"}",
+      "Next": 1,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"TimerAction\" : 1.00000} ",
+      "Next": 2
+    },
+    {
+      "Node": "{ \"NextOrEndQuestAction\" } ",
+      "Next": -1
+    }
+  ],
+  "Name": "mod测试：木人心和道恒用 礼物添加到背包"
+}

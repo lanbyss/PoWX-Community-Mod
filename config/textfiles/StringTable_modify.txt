@@ -1,0 +1,20 @@
+Favorability_Rank_01_mu		朽木可雕
+Favorability_Rank_02_mu		耳提面命
+Favorability_Rank_03_mu		教诲如流
+Favorability_Rank_04_mu		承师若友
+Favorability_Rank_05_mu		知己知彼
+Favorability_Rank_06_mu		推心置腹
+Favorability_Rank_07_mu		高山流水
+Favorability_Rank_Sp_mu		遗君一心
+
+Favorability_Rank_01_dao		草庐之交
+Favorability_Rank_02_dao		传道解惑
+Favorability_Rank_03_dao		亦师亦友
+Favorability_Rank_04_dao		据其三窟
+Favorability_Rank_05_dao		旺临朱雀
+Favorability_Rank_06_dao		坎离相济
+Favorability_Rank_07_dao		莫逆于心
+Favorability_Rank_Sp_dao		心动情生
+
+
+PropsCategory721	道具小分类	机关术

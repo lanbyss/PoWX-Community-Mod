@@ -1,0 +1,26 @@
+{
+  "EntryIndex": 0,
+  "Nodes": [
+    {
+      "Node": "{ \"NurturanceTransitionsAction\" : False} ",
+      "Next": 1,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"NurturanceChangeBackground\" : \"M01_05_2D\"} ",
+      "Next": 2,
+      "Prallel": -1
+    },
+    {
+      "Node": "{\"TalkAction\": \"cmod_dao61_0001\"}",
+      "Next": 3,
+      "Prallel": -1
+    },
+    {
+      "Node": "{ \"NurturanceLoadScenesAction\" : \"S0202\", { 1499.94800, -0.00600, 758.87900} , { 0.00000, 0.00000, 0.00000} , 0, False, 0} ",
+      "Next": -1,
+      "Prallel": -1
+    }
+  ],
+  "Name": "道恒 六阶普通出游剧情"
+}

@@ -1,0 +1,34 @@
+re_cmod_in020900_01	木人心一阶（开启社群、好感+5）	TRUE		{ "LogicalNode" : [ { "CommunityAction" : "in020900", True} , { "SetFavorabilityEXP" : 1, 5, "in020900"}], 0} 
+re_cmod_in020900_02	木人心二阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in020900", ""} , { "SetFavorabilityEXP" : 1, 10, "in020900"} ], 0} 
+re_cmod_in020900_03	木人心三阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in020900", ""} , { "SetFavorabilityEXP" : 1, 10, "in020900"} ], 0} 
+re_cmod_in020900_04	木人心四阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in020900", ""} , { "SetFavorabilityEXP" : 1, 10, "in020900"} ], 0} 
+re_cmod_in020900_05	木人心五阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in020900", ""} , { "SetFavorabilityEXP" : 1, 10, "in020900"} ], 0} 
+re_cmod_in020900_06	木人心六阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in020900", ""} , { "SetFavorabilityEXP" : 1, 10, "in020900"} ], 0} 
+re_cmod_in020900_07	木人心七阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in020900", ""} , { "SetFavorabilityEXP" : 1, 10, "in020900"} ], 0} 
+re_cmod_in020900_08	木人心恋人	TRUE		{ "LogicalNode" : [ { "SetFavorabilityLover" : "in020900"}  ], 0} 
+
+re_cmod_in070100_01	道恒一阶（开启社群、好感+5）	TRUE		{ "LogicalNode" : [ { "CommunityAction" : "in070100", True} , { "SetFavorabilityEXP" : 1, 5, "in070100"}], 0} 
+re_cmod_in070100_02	道恒二阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in070100", ""} , { "SetFavorabilityEXP" : 1, 10, "in070100"} ], 0} 
+re_cmod_in070100_03	道恒三阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in070100", ""} , { "SetFavorabilityEXP" : 1, 10, "in070100"} ], 0} 
+re_cmod_in070100_04	道恒四阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in070100", ""} , { "SetFavorabilityEXP" : 1, 10, "in070100"} ], 0} 
+re_cmod_in070100_05	道恒五阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in070100", ""} , { "SetFavorabilityEXP" : 1, 10, "in070100"} ], 0} 
+re_cmod_in070100_06	道恒六阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in070100", ""} , { "SetFavorabilityEXP" : 1, 10, "in070100"} ], 0} 
+re_cmod_in070100_07	道恒七阶	TRUE		{ "LogicalNode" : [ { "SetFavorabilityRank" : "in070100", ""} , { "SetFavorabilityEXP" : 1, 10, "in070100"} ], 0} 
+re_cmod_in070100_08	道恒恋人	TRUE		{ "LogicalNode" : [ { "SetFavorabilityLover" : "in070100"}  ], 0} 
+
+re_cmod_in020900_fav1	木人心友好度「最小幅」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 1, "in020900"}  ], 0} 
+re_cmod_in020900_fav2	木人心友好度「小幅」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 2, "in020900"}  ], 0} 
+re_cmod_in020900_fav4	木人心友好度「中小」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 4, "in020900"}  ], 0} 
+re_cmod_in020900_fav6	木人心友好度「中幅」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 6, "in020900"}  ], 0} 
+re_cmod_in020900_fav8	木人心友好度「中大」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 8, "in020900"}  ], 0} 
+re_cmod_in020900_fav10	木人心友好度「大幅」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 10, "in020900"}  ], 0} 
+
+re_cmod_in070100_fav1	道恒友好度「最小幅」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 1, "in070100"}  ], 0} 
+re_cmod_in070100_fav2	道恒友好度「小幅」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 2, "in070100"}  ], 0} 
+re_cmod_in070100_fav4	道恒友好度「中小」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 4, "in070100"}  ], 0} 
+re_cmod_in070100_fav6	道恒友好度「中幅」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 6, "in070100"}  ], 0} 
+re_cmod_in070100_fav8	道恒友好度「中大」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 8, "in070100"}  ], 0} 
+re_cmod_in070100_fav10	道恒友好度「大幅」提升	True		{ "LogicalNode" : [ { "SetFavorabilityEXP" : 1, 10, "in070100"}  ], 0} 
+
+re_cmod_test_gift_mu	【测试】木人心礼物打包	True		{ "LogicalNode" : [ { "RewardProps" : 1, 5, "it_cmod_721001"}, { "RewardProps" : 1, 5, "it_cmod_721002"}, { "RewardProps" : 1, 5, "it_cmod_721003"}, { "RewardProps" : 1, 5, "it_cmod_721004"}, { "RewardProps" : 1, 5, "it_cmod_721005"}, { "RewardProps" : 1, 5, "it_cmod_721006"} ], 0} 
+re_cmod_test_gift_dao	【测试】道恒礼物打包	True		{ "LogicalNode" : [ { "RewardProps" : 1, 5, "it_cmod_705001"}, { "RewardProps" : 1, 5, "it_cmod_705002"}, { "RewardProps" : 1, 5, "it_cmod_705003"}, { "RewardProps" : 1, 5, "it_cmod_705004"}, { "RewardProps" : 1, 5, "it_cmod_705005"}, { "RewardProps" : 1, 5, "it_cmod_705006"} ], 0} 

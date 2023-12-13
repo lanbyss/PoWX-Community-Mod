@@ -1,0 +1,13 @@
+it_cmod_705001	【cmod】dao_10	测试道恒送礼用	给道恒的礼物	7	705		705	0	0	FALSE	TRUE		0			(Favorable, in070100, 10)	
+it_cmod_705002	【cmod】dao_8	测试道恒送礼用	给道恒的礼物	7	705		705	0	0	FALSE	TRUE		0			(Favorable, in070100, 8)	
+it_cmod_705003	【cmod】dao_6	测试道恒送礼用	给道恒的礼物	7	705		705	0	0	FALSE	TRUE		0			(Favorable, in070100, 6)	
+it_cmod_705004	【cmod】dao_4	测试道恒送礼用	给道恒的礼物	7	705		705	0	0	FALSE	TRUE		0			(Favorable, in070100, 4)	
+it_cmod_705005	【cmod】dao_2	测试道恒送礼用	给道恒的礼物	7	705		705	0	0	FALSE	TRUE		0			(Favorable, in070100, 2)	
+it_cmod_705006	【cmod】dao_1	测试道恒送礼用	给道恒的礼物	7	705		705	0	0	FALSE	TRUE		0			(Favorable, in070100, 1)	
+
+it_cmod_721001	【cmod】mu_10	测试木人心送礼用	自己做的小玩意儿，有点粗糙，但是很可爱。	7	721		721	0	0	FALSE	TRUE		0			(Favorable, in020900, 10)	
+it_cmod_721002	【cmod】mu_8	测试木人心送礼用	自己做的小玩意儿，有点粗糙，但是很可爱。	7	721		721	0	0	FALSE	TRUE		0			(Favorable, in020900, 8)	
+it_cmod_721003	【cmod】mu_6	测试木人心送礼用	自己做的小玩意儿，有点粗糙，但是很可爱。	7	721		721	0	0	FALSE	TRUE		0			(Favorable, in020900, 6)	
+it_cmod_721004	【cmod】mu_4	测试木人心送礼用	自己做的小玩意儿，有点粗糙，但是很可爱。	7	721		721	0	0	FALSE	TRUE		0			(Favorable, in020900, 4)	
+it_cmod_721005	【cmod】mu_2	测试木人心送礼用	自己做的小玩意儿，有点粗糙，但是很可爱。	7	721		721	0	0	FALSE	TRUE		0			(Favorable, in020900, 2)	
+it_cmod_721006	【cmod】mu_1	测试木人心送礼用	自己做的小玩意儿，有点粗糙，但是很可爱。	7	721		721	0	0	FALSE	TRUE		0			(Favorable, in020900, 1)	
