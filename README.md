@@ -16,7 +16,7 @@
 
 ### 安装
 
-1. 下载 [powx-community-mod.zip。](https://github.com/lanbyss/PoWX-Community-Mod/releases/download/1.0/powx-community-mod.zip)
+1. 下载 [powx-community-mod.zip](https://github.com/lanbyss/PoWX-Community-Mod/releases/download/1.0/powx-community-mod.zip) 或从下面的网盘地址下载。
 2. 备份游戏根目录下 `.\PathOfWuxia_Data\Managed\Assembly-CSharp.dll` 文件。
 3. 将解压出的 `community-mod-demo-1.0` 文件夹中的所有文件复制到游戏根目录即可。
 4. 存档可以备份一下。
@@ -35,8 +35,7 @@
 
 3. 百度网盘下载地址（附教程）
 
-    链接：https://pan.baidu.com/s/1c_cWN9Kcx_nEPjWaASiNhw 
-    提取码：ihh7 
+    链接：https://pan.baidu.com/s/1c_cWN9Kcx_nEPjWaASiNhw  提取码：ihh7 
 
 ## 致谢
 
