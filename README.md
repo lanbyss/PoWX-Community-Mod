@@ -16,9 +16,10 @@
 
 ### 安装
 
-1. 解压，放到游戏根目录即可。
-2. DLL备份替换
-3. 存档备份
+1. 下载：[powx-community-mod.zip](https://github.com/lanbyss/PoWX-Community-Mod/releases/download/1.0/powx-community-mod.zip)
+2. 解压，放到游戏根目录即可。
+3. DLL备份替换
+4. 存档备份
 
 ### 流程说明
 
