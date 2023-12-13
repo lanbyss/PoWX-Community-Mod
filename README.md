@@ -18,7 +18,7 @@
 
 1. 下载 [powx-community-mod.zip。](https://github.com/lanbyss/PoWX-Community-Mod/releases/download/1.0/powx-community-mod.zip)
 2. 备份游戏根目录下 `.\PathOfWuxia_Data\Managed\Assembly-CSharp.dll` 文件。
-3. 将解压出的 `community-mod-demo-1.0` 文件夹中的所有文件复制到游戏根目录即可，放到游戏根目录即可。
+3. 将解压出的 `community-mod-demo-1.0` 文件夹中的所有文件复制到游戏根目录即可。
 4. 存档可以备份一下。
 
 ### 流程说明
